@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{208:function(n,e,t){"use strict";t.r(e);var s={name:"404"},c=t(0),i=Object(c.a)(s,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n    You Got Missed! @_@\n")])}),[],!1,null,"67caf8bc",null);e.default=i.exports}}]);
